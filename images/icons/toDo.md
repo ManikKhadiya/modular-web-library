@@ -1,0 +1,2 @@
+search.svg
+user.svg
